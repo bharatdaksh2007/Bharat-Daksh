@@ -1,57 +1,83 @@
-<!-- Banner -->
+# ✨ Bharat Daksh ✨
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=200&section=header&text=✨%20Bharat%20Daksh%20✨&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7A41D&size=28&center=true&vCenter=true&width=700&lines=Backend+Developer;DSA+Enthusiast;Java+Lover;Problem+Solver;Always+Learning+New+Things" />
 </p>
 
-<!-- Typing Animation -->
+---
+
+## 🚀 About Me
+
+🎓 B.Tech CSE (2027) @ GLA University, Mathura
+💡 Passionate about **Java, DBMS & Problem Solving**
+🛠️ Love building projects from scratch
+🌱 Currently learning **Backend Development & DSA**
+🎯 Goal: Crack top tech companies & contribute to open source
+
+---
+
+## 🚀 Tech Stack
+
 <p align="center">
-  <a href="https://github.com/Bharat-Daksh">
-    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=F7971E&center=true&vCenter=true&width=600&lines=🚀+B.Tech+CSE+%7C+GLA+University;💻+Full+of+Code+%26+Curiosity;📚+Mastering+DBMS+%26+Java;⚡+Innovator+%26+Problem+Solver">
+  <img src="https://skillicons.dev/icons?i=java,mysql,cpp,python,git,github,vscode,html,css" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharatdaksh2007&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharatdaksh2007&theme=radical" height="180em"/>
+</p>
+
+---
+
+## 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharatdaksh2007&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Bharatdaksh2007/Bharatdaksh2007/blob/main/dist/github-contribution-grid-snake.svg)
+
+---
+
+## 💻 Featured Projects
+
+* 🔹 Library Management System
+* 🔹 Student Backend Portal
+* 🔹 DSA Practice Repository
+
+---
+
+## 🏆 Achievements
+
+🏅 Solved DSA problems regularly
+🚀 Consistent GitHub learner
+💡 Exploring real-world backend systems
+
+---
+
+## ⚡ Fun Zone
+
+💻 Eat → Code → Sleep → Repeat
+☕ Coffee = Code Fuel
+🐛 Debugging is my cardio 😅
+🔥 Turning ideas into reality
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Bharatdaksh2007">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
-
-<h2 align="center" style="color:#ff512f;">📌 <b>About Me</b></h2>
-
-✨ **B.Tech CSE (2027)** @ GLA University, Mathura  
-💡 Passionate about **DBMS, Java, Problem Solving**  
-🛠 Building projects from scratch & exploring advanced tech  
-🌱 Currently working on **Backend Development & DSA**  
-🎯 Goal: Crack top tech companies & contribute to open source  
-
----
-
-<h2 align="center" style="color:#ff512f;">🛠 <b>Tech Stack</b></h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,git,github,html,css,js,python,vscode,figma" />
-</p>
-
----
-
-<h2 align="center" style="color:#ff512f;">📊 <b>GitHub Stats</b></h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bharat-Daksh&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharat-Daksh&theme=radical&hide_border=true" height="165"/>
-</p>
-
----
-
-<h2 align="center" style="color:#ff512f;">🐍 <b>Contribution Snake</b></h2>
-<p align="center">
-  <img src="https://github.com/Bharat-Daksh/Bharat-Daksh/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
-<h2 align="center" style="color:#ff512f;">📈 <b>Profile Views</b></h2>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bharat-Daksh&label=Profile%20Views&color=ff512f&style=flat" alt="profile views"/>
-</p>
-
----
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dd2476,100:ff512f&height=120&section=footer"/>
-</p>
