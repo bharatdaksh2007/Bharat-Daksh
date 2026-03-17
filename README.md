@@ -1,4 +1,10 @@
-# ✨ Bharat Daksh ✨
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=200&section=header&text=✨%20Bharat%20Daksh%20✨&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=F7A41D&center=true&vCenter=true&width=700&lines=Backend+Developer;DSA+Enthusiast;Problem+Solver;Always+Learning"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7A41D&size=28&center=true&vCenter=true&width=700&lines=Backend+Developer;DSA+Enthusiast;Java+Lover;Problem+Solver;Always+Learning+New+Things" />
